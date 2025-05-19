@@ -51,7 +51,7 @@ await abails.requestPairingCode(phoneNumber, "YOUR-CODE");
 ## ⚙️ Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:AnggazyyZcoder/A-Bails",`
+"@whiskeysockets/baileys": "github:Zhen-xyz/Ren-Bailys",`
 ```
 
 ##  Jimp supported
