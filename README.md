@@ -1,4 +1,4 @@
-<h1 align="center">💎 Ren-Bail <h1>
+<h1 align="center">Xatanical Bella Baileys<h1>
 <p align="center">
   <em>Baileys Coded</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
@@ -8,51 +8,43 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-Active-success?style=for-the-badge" alt="status">
   <img src="https://img.shields.io/badge/powered_by-Baileys-blueviolet?style=for-the-badge" alt="powered">
-  <img src="https://img.shields.io/github/license/ren-dev/Ren-Bail?style=for-the-badge" alt="license">
+  <img src="https://img.shields.io/github/license/Bealxvasion/XatanicalBella-Baileys?style=for-the-badge" alt="license">
 </p>
 
 ---
 
-## 📦 Tentang Ren-Bail
+## Information About Baileys
 
-> **Ren-Bail** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh terhadap berbagai **WA bug tools**.  
+> **Xatanical** adalah modul lanjutan dari `@whiskeysockets/baileys` dengan sistem **Custom Pairing** dan dukungan penuh  
 > Dirancang khusus untuk developer yang ingin membangun bot WhatsApp profesional, sistem multi-user, atau alat automasi WhatsApp tingkat lanjut, maupun bagi yang ingin menggunakan bug.
 
 ---
 
-## 🚀 Keunggulan Ren-Bail
+## THE FEATURE SUPPORTING
 
-### ⚙️ Custom Pairing System
-- Mendukung generate pairing code untuk penggunaan publik maupun pribadi.
+###  Custom Pairing System
+- Support Custom pairing code untuk pribadi
 
-### ❓ How to custom pairing
+### Tutorial Request Custom Baileys 
 ```bash
-await renbail.requestPairingCode(phoneNumber, "YOUR-CODE");
+await Xatanical.requestPairingCode(phoneNumber, "YOUR-CODE");
 ```
 
-### 🔥 Support All Bug Tools
-- Diuji dan kompatibel dengan berbagai metode bug WhatsApp:
-  - **Invisible Bug**
-  - **Bug Saluran**
-  - **ViewOnce Bypass**
-  - **Group bug**
-  - Dan lainnya...
-
-### 🧩 Multi-Session & Flexible
-- Mendukung multi pairing atau rentbot
-- Pengelolaan sesi dengan struktur file yang rapi.
+###  Multi-Session Pairing
+- Support multi pairing atau rentbot
+- Tidak Terputus Connection Saat Bug
 - Bisa digunakan bersamaan dengan bot Telegram/Panel.
 
-### ⚡ Performa Maksimal
+###  Performa Stabil
 - Super ringan, cepat, dan stabil.
 - Didukung oleh update dari core Baileys terbaru.
 
 ---
 
-## ⚙️ Settings up
+##  Settings up
 
 ```bash
-"@whiskeysockets/baileys": "github:Zhen-xyz/Ren-Bailys",`
+"@whiskeysockets/baileys": "github:Bealxvasion/XatanicalBella-Baileys",`
 ```
 
 ##  Jimp supported
