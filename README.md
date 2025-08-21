@@ -2,7 +2,7 @@
 <p align="center">
   <em>Baileys Coded</em><br>
   <a href="https://github.com/WhiskeySockets/Baileys"><strong>@whiskeysockets/baileys</strong></a><br>
-  Developed & Enhanced by <strong>Ren</strong>
+  Developed & Enhanced by <strong>Xatanical Bella</strong>
 </p>
 
 <p align="center">
